@@ -507,7 +507,7 @@ strong {
   ABOUT              
 -----------------------------------------*/
 .about-section {
-  background-image: url('../images/edward-unsplash-blur.jpg');
+  background-image: url('../images/about-section.png');
   background-color: #704010;
   background-repeat: no-repeat;
   background-size: cover;
@@ -645,7 +645,7 @@ strong {
   SCHEDULE              
 -----------------------------------------*/
 .schedule-section {
-  background-image: url('../images/nainoa-shizuru-unsplash-blur.jpg');
+  background-image: url('../images/Event.png');
   background-color: #242424;
   background-repeat: no-repeat;
   background-position: center;
