@@ -306,6 +306,7 @@ strong {
 
 .custom-btn:hover {
   background: var(--custom-btn-bg-hover-color);
+  /* background: #000000; */
   color: var(--white-color);
 }
 
